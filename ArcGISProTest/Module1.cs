@@ -75,7 +75,7 @@ namespace ArcGISProTest
         }
 
         private void OnAnnoCreated(RowChangedEventArgs args)
-        {
+        {   
             MessageBox.Show("Annotation Created");
         }
 
